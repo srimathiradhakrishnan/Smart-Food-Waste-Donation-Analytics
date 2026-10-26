@@ -1,0 +1,430 @@
+date,surplus_id,restaurant_id,restaurant_name,ngo_id,ngo_name,food_item,allocated_quantity
+2026-01-01,60,3,Restaurant_3,3,NGO_3,Chapati,100
+2026-01-02,411,21,Restaurant_21,4,NGO_4,Biryani,142
+2026-01-02,495,24,Restaurant_24,4,NGO_4,Biryani,52
+2026-01-07,332,18,Restaurant_18,9,NGO_9,Dosa,79
+2026-01-07,99,20,Restaurant_20,10,NGO_10,Biryani,20
+2026-01-08,352,3,Restaurant_3,3,NGO_3,Idli,20
+2026-01-08,155,45,Restaurant_45,3,NGO_3,Chapati,123
+2026-01-08,56,33,Restaurant_33,9,NGO_9,Idli,48
+2026-01-08,240,10,Restaurant_10,8,NGO_8,Idli,57
+2026-01-08,354,27,Restaurant_27,6,NGO_6,Fried Rice,25
+2026-01-09,437,47,Restaurant_47,2,NGO_2,Curd Rice,197
+2026-01-10,403,48,Restaurant_48,3,NGO_3,Rice,128
+2026-01-10,401,37,Restaurant_37,10,NGO_10,Dosa,21
+2026-01-10,57,12,Restaurant_12,7,NGO_7,Idli,111
+2026-01-11,252,26,Restaurant_26,6,NGO_6,Curd Rice,61
+2026-01-11,315,13,Restaurant_13,3,NGO_3,Sambar Rice,29
+2026-01-12,220,33,Restaurant_33,9,NGO_9,Biryani,8
+2026-01-13,188,44,Restaurant_44,7,NGO_7,Fried Rice,39
+2026-01-13,317,13,Restaurant_13,3,NGO_3,Sambar Rice,58
+2026-01-13,445,44,Restaurant_44,7,NGO_7,Sambar Rice,13
+2026-01-14,94,2,Restaurant_2,5,NGO_5,Sambar Rice,79
+2026-01-14,488,48,Restaurant_48,3,NGO_3,Idli,102
+2026-01-14,152,35,Restaurant_35,1,NGO_1,Chapati,43
+2026-01-15,480,25,Restaurant_25,5,NGO_5,Rice,50
+2026-01-15,441,14,Restaurant_14,6,NGO_6,Dosa,2
+2026-01-15,425,27,Restaurant_27,6,NGO_6,Fried Rice,2
+2026-01-16,23,31,Restaurant_31,4,NGO_4,Dosa,33
+2026-01-16,400,21,Restaurant_21,4,NGO_4,Idli,21
+2026-01-17,127,31,Restaurant_31,4,NGO_4,Curd Rice,7
+2026-01-17,304,16,Restaurant_16,6,NGO_6,Idli,20
+2026-01-18,103,35,Restaurant_35,1,NGO_1,Sambar Rice,45
+2026-01-18,469,27,Restaurant_27,6,NGO_6,Dosa,36
+2026-01-18,310,48,Restaurant_48,3,NGO_3,Sambar Rice,12
+2026-01-18,36,17,Restaurant_17,1,NGO_1,Chapati,19
+2026-01-18,161,33,Restaurant_33,9,NGO_9,Biryani,137
+2026-01-18,265,21,Restaurant_21,4,NGO_4,Fried Rice,12
+2026-01-19,13,3,Restaurant_3,3,NGO_3,Chapati,166
+2026-01-19,427,48,Restaurant_48,3,NGO_3,Rice,11
+2026-01-20,134,16,Restaurant_16,6,NGO_6,Dosa,4
+2026-01-20,468,3,Restaurant_3,3,NGO_3,Rice,28
+2026-01-20,80,16,Restaurant_16,6,NGO_6,Biryani,44
+2026-01-20,325,41,Restaurant_41,4,NGO_4,Curd Rice,224
+2026-01-20,20,18,Restaurant_18,9,NGO_9,Fried Rice,85
+2026-01-21,301,29,Restaurant_29,2,NGO_2,Rice,186
+2026-01-21,419,44,Restaurant_44,7,NGO_7,Fried Rice,71
+2026-01-21,30,39,Restaurant_39,7,NGO_7,Curd Rice,1
+2026-01-22,90,37,Restaurant_37,10,NGO_10,Curd Rice,125
+2026-01-22,492,38,Restaurant_38,4,NGO_4,Biryani,102
+2026-01-23,108,16,Restaurant_16,6,NGO_6,Biryani,3
+2026-01-24,230,6,Restaurant_6,2,NGO_2,Curd Rice,221
+2026-01-24,42,32,Restaurant_32,7,NGO_7,Curd Rice,88
+2026-01-24,296,10,Restaurant_10,8,NGO_8,Chapati,131
+2026-01-24,364,20,Restaurant_20,10,NGO_10,Curd Rice,125
+2026-01-25,204,20,Restaurant_20,10,NGO_10,Chapati,125
+2026-01-26,176,48,Restaurant_48,3,NGO_3,Idli,26
+2026-01-27,496,24,Restaurant_24,4,NGO_4,Dosa,155
+2026-01-27,234,39,Restaurant_39,7,NGO_7,Chapati,64
+2026-01-27,311,47,Restaurant_47,2,NGO_2,Sambar Rice,38
+2026-01-27,148,22,Restaurant_22,1,NGO_1,Dosa,27
+2026-01-28,18,26,Restaurant_26,6,NGO_6,Chapati,130
+2026-01-28,104,27,Restaurant_27,6,NGO_6,Curd Rice,115
+2026-01-28,235,43,Restaurant_43,10,NGO_10,Sambar Rice,96
+2026-01-29,406,30,Restaurant_30,3,NGO_3,Sambar Rice,75
+2026-01-29,4,21,Restaurant_21,4,NGO_4,Sambar Rice,151
+2026-01-30,245,18,Restaurant_18,9,NGO_9,Sambar Rice,20
+2026-01-30,218,48,Restaurant_48,3,NGO_3,Idli,3
+2026-01-31,455,14,Restaurant_14,6,NGO_6,Fried Rice,172
+2026-02-02,123,1,Restaurant_1,2,NGO_2,Biryani,75
+2026-02-03,43,3,Restaurant_3,3,NGO_3,Biryani,20
+2026-02-03,192,38,Restaurant_38,4,NGO_4,Idli,30
+2026-02-03,154,14,Restaurant_14,6,NGO_6,Biryani,28
+2026-02-03,345,41,Restaurant_41,4,NGO_4,Curd Rice,134
+2026-02-03,231,48,Restaurant_48,3,NGO_3,Rice,124
+2026-02-04,432,43,Restaurant_43,10,NGO_10,Sambar Rice,115
+2026-02-05,19,13,Restaurant_13,3,NGO_3,Curd Rice,53
+2026-02-05,487,35,Restaurant_35,1,NGO_1,Idli,65
+2026-02-06,278,6,Restaurant_6,2,NGO_2,Sambar Rice,10
+2026-02-06,196,30,Restaurant_30,3,NGO_3,Chapati,238
+2026-02-07,73,32,Restaurant_32,7,NGO_7,Rice,70
+2026-02-07,223,6,Restaurant_6,2,NGO_2,Idli,35
+2026-02-08,271,39,Restaurant_39,7,NGO_7,Rice,23
+2026-02-09,229,43,Restaurant_43,10,NGO_10,Fried Rice,48
+2026-02-09,105,41,Restaurant_41,4,NGO_4,Curd Rice,23
+2026-02-09,436,16,Restaurant_16,6,NGO_6,Biryani,59
+2026-02-09,25,45,Restaurant_45,3,NGO_3,Chapati,26
+2026-02-09,494,46,Restaurant_46,2,NGO_2,Curd Rice,68
+2026-02-09,171,27,Restaurant_27,6,NGO_6,Idli,85
+2026-02-10,274,34,Restaurant_34,6,NGO_6,Sambar Rice,7
+2026-02-11,292,33,Restaurant_33,9,NGO_9,Chapati,58
+2026-02-12,98,45,Restaurant_45,3,NGO_3,Idli,48
+2026-02-12,7,43,Restaurant_43,10,NGO_10,Biryani,11
+2026-02-12,139,10,Restaurant_10,8,NGO_8,Biryani,45
+2026-02-13,255,26,Restaurant_26,6,NGO_6,Fried Rice,15
+2026-02-14,193,21,Restaurant_21,4,NGO_4,Chapati,115
+2026-02-14,250,32,Restaurant_32,7,NGO_7,Dosa,111
+2026-02-14,145,18,Restaurant_18,9,NGO_9,Fried Rice,137
+2026-02-14,215,10,Restaurant_10,8,NGO_8,Idli,31
+2026-02-15,74,50,Restaurant_50,7,NGO_7,Fried Rice,82
+2026-02-15,484,37,Restaurant_37,10,NGO_10,Sambar Rice,125
+2026-02-16,110,2,Restaurant_2,5,NGO_5,Fried Rice,73
+2026-02-16,287,25,Restaurant_25,5,NGO_5,Dosa,6
+2026-02-17,447,10,Restaurant_10,8,NGO_8,Fried Rice,58
+2026-02-17,126,31,Restaurant_31,4,NGO_4,Rice,55
+2026-02-17,407,47,Restaurant_47,2,NGO_2,Rice,82
+2026-02-17,410,26,Restaurant_26,6,NGO_6,Dosa,177
+2026-02-17,467,47,Restaurant_47,2,NGO_2,Rice,44
+2026-02-18,451,24,Restaurant_24,4,NGO_4,Rice,19
+2026-02-19,408,19,Restaurant_19,2,NGO_2,Dosa,3
+2026-02-20,261,7,Restaurant_7,9,NGO_9,Dosa,35
+2026-02-21,421,36,Restaurant_36,5,NGO_5,Dosa,3
+2026-02-22,456,45,Restaurant_45,3,NGO_3,Curd Rice,4
+2026-02-22,41,14,Restaurant_14,6,NGO_6,Biryani,126
+2026-02-25,365,30,Restaurant_30,3,NGO_3,Sambar Rice,154
+2026-02-26,461,27,Restaurant_27,6,NGO_6,Dosa,5
+2026-02-26,115,2,Restaurant_2,5,NGO_5,Curd Rice,35
+2026-02-26,247,43,Restaurant_43,10,NGO_10,Curd Rice,103
+2026-02-27,10,29,Restaurant_29,2,NGO_2,Idli,45
+2026-02-28,11,2,Restaurant_2,5,NGO_5,Chapati,39
+2026-02-28,463,10,Restaurant_10,8,NGO_8,Curd Rice,38
+2026-02-28,482,7,Restaurant_7,9,NGO_9,Chapati,137
+2026-03-02,339,13,Restaurant_13,3,NGO_3,Fried Rice,197
+2026-03-03,395,7,Restaurant_7,9,NGO_9,Chapati,37
+2026-03-03,438,50,Restaurant_50,7,NGO_7,Chapati,242
+2026-03-03,32,43,Restaurant_43,10,NGO_10,Biryani,125
+2026-03-04,101,38,Restaurant_38,4,NGO_4,Idli,46
+2026-03-04,71,10,Restaurant_10,8,NGO_8,Fried Rice,34
+2026-03-04,256,6,Restaurant_6,2,NGO_2,Curd Rice,114
+2026-03-06,476,13,Restaurant_13,3,NGO_3,Sambar Rice,54
+2026-03-06,277,44,Restaurant_44,7,NGO_7,Dosa,56
+2026-03-06,316,33,Restaurant_33,9,NGO_9,Rice,10
+2026-03-06,348,19,Restaurant_19,2,NGO_2,Chapati,226
+2026-03-08,413,47,Restaurant_47,2,NGO_2,Sambar Rice,174
+2026-03-08,91,30,Restaurant_30,3,NGO_3,Curd Rice,70
+2026-03-09,39,7,Restaurant_7,9,NGO_9,Idli,137
+2026-03-09,217,21,Restaurant_21,4,NGO_4,Rice,23
+2026-03-09,333,34,Restaurant_34,6,NGO_6,Biryani,99
+2026-03-10,360,16,Restaurant_16,6,NGO_6,Fried Rice,118
+2026-03-10,162,22,Restaurant_22,1,NGO_1,Rice,10
+2026-03-10,493,46,Restaurant_46,2,NGO_2,Dosa,43
+2026-03-11,394,14,Restaurant_14,6,NGO_6,Biryani,13
+2026-03-11,295,6,Restaurant_6,2,NGO_2,Fried Rice,184
+2026-03-11,40,48,Restaurant_48,3,NGO_3,Biryani,132
+2026-03-12,266,41,Restaurant_41,4,NGO_4,Rice,6
+2026-03-12,187,2,Restaurant_2,5,NGO_5,Rice,78
+2026-03-13,388,31,Restaurant_31,4,NGO_4,Biryani,48
+2026-03-13,236,24,Restaurant_24,4,NGO_4,Chapati,11
+2026-03-13,55,22,Restaurant_22,1,NGO_1,Sambar Rice,93
+2026-03-14,457,36,Restaurant_36,5,NGO_5,Curd Rice,13
+2026-03-15,140,48,Restaurant_48,3,NGO_3,Fried Rice,96
+2026-03-15,149,27,Restaurant_27,6,NGO_6,Curd Rice,81
+2026-03-15,268,4,Restaurant_4,9,NGO_9,Idli,18
+2026-03-16,135,27,Restaurant_27,6,NGO_6,Rice,25
+2026-03-16,392,23,Restaurant_23,5,NGO_5,Rice,79
+2026-03-16,361,10,Restaurant_10,8,NGO_8,Curd Rice,51
+2026-03-17,195,17,Restaurant_17,1,NGO_1,Sambar Rice,17
+2026-03-18,2,7,Restaurant_7,9,NGO_9,Chapati,92
+2026-03-18,131,25,Restaurant_25,5,NGO_5,Curd Rice,32
+2026-03-18,337,36,Restaurant_36,5,NGO_5,Dosa,47
+2026-03-18,434,1,Restaurant_1,2,NGO_2,Fried Rice,218
+2026-03-18,478,16,Restaurant_16,6,NGO_6,Idli,151
+2026-03-19,303,50,Restaurant_50,7,NGO_7,Idli,73
+2026-03-19,248,4,Restaurant_4,9,NGO_9,Chapati,18
+2026-03-19,66,36,Restaurant_36,5,NGO_5,Biryani,79
+2026-03-19,129,10,Restaurant_10,8,NGO_8,Idli,93
+2026-03-19,355,35,Restaurant_35,1,NGO_1,Fried Rice,22
+2026-03-20,118,45,Restaurant_45,3,NGO_3,Biryani,77
+2026-03-20,458,35,Restaurant_35,1,NGO_1,Biryani,105
+2026-03-21,191,7,Restaurant_7,9,NGO_9,Fried Rice,137
+2026-03-21,238,12,Restaurant_12,7,NGO_7,Sambar Rice,10
+2026-03-21,280,46,Restaurant_46,2,NGO_2,Curd Rice,227
+2026-03-22,31,38,Restaurant_38,4,NGO_4,Biryani,41
+2026-03-22,150,3,Restaurant_3,3,NGO_3,Biryani,124
+2026-03-22,228,26,Restaurant_26,6,NGO_6,Curd Rice,112
+2026-03-22,358,22,Restaurant_22,1,NGO_1,Sambar Rice,149
+2026-03-22,386,31,Restaurant_31,4,NGO_4,Dosa,68
+2026-03-22,119,8,Restaurant_8,9,NGO_9,Idli,137
+2026-03-22,58,28,Restaurant_28,5,NGO_5,Curd Rice,25
+2026-03-22,253,30,Restaurant_30,3,NGO_3,Curd Rice,146
+2026-03-23,336,6,Restaurant_6,2,NGO_2,Sambar Rice,63
+2026-03-23,442,19,Restaurant_19,2,NGO_2,Sambar Rice,16
+2026-03-23,343,37,Restaurant_37,10,NGO_10,Idli,40
+2026-03-24,143,3,Restaurant_3,3,NGO_3,Biryani,36
+2026-03-25,242,24,Restaurant_24,4,NGO_4,Idli,17
+2026-03-25,375,39,Restaurant_39,7,NGO_7,Sambar Rice,187
+2026-03-25,362,27,Restaurant_27,6,NGO_6,Sambar Rice,73
+2026-03-26,450,16,Restaurant_16,6,NGO_6,Idli,69
+2026-03-26,412,16,Restaurant_16,6,NGO_6,Biryani,76
+2026-03-26,61,28,Restaurant_28,5,NGO_5,Sambar Rice,5
+2026-03-27,454,14,Restaurant_14,6,NGO_6,Biryani,20
+2026-03-27,404,37,Restaurant_37,10,NGO_10,Biryani,125
+2026-03-28,372,7,Restaurant_7,9,NGO_9,Sambar Rice,35
+2026-03-28,92,14,Restaurant_14,6,NGO_6,Curd Rice,63
+2026-03-28,275,19,Restaurant_19,2,NGO_2,Rice,25
+2026-03-28,312,3,Restaurant_3,3,NGO_3,Dosa,51
+2026-03-29,283,20,Restaurant_20,10,NGO_10,Fried Rice,49
+2026-03-29,272,7,Restaurant_7,9,NGO_9,Idli,7
+2026-03-29,111,23,Restaurant_23,5,NGO_5,Biryani,79
+2026-03-30,164,29,Restaurant_29,2,NGO_2,Sambar Rice,44
+2026-03-30,344,30,Restaurant_30,3,NGO_3,Dosa,72
+2026-04-01,324,23,Restaurant_23,5,NGO_5,Curd Rice,79
+2026-04-01,387,35,Restaurant_35,1,NGO_1,Biryani,48
+2026-04-02,209,24,Restaurant_24,4,NGO_4,Rice,4
+2026-04-02,216,2,Restaurant_2,5,NGO_5,Chapati,62
+2026-04-03,122,13,Restaurant_13,3,NGO_3,Dosa,76
+2026-04-03,282,43,Restaurant_43,10,NGO_10,Rice,8
+2026-04-03,208,29,Restaurant_29,2,NGO_2,Idli,83
+2026-04-04,194,35,Restaurant_35,1,NGO_1,Biryani,6
+2026-04-05,416,41,Restaurant_41,4,NGO_4,Chapati,113
+2026-04-05,116,20,Restaurant_20,10,NGO_10,Fried Rice,51
+2026-04-05,340,24,Restaurant_24,4,NGO_4,Fried Rice,25
+2026-04-06,330,29,Restaurant_29,2,NGO_2,Fried Rice,83
+2026-04-06,178,4,Restaurant_4,9,NGO_9,Curd Rice,60
+2026-04-06,9,26,Restaurant_26,6,NGO_6,Fried Rice,35
+2026-04-06,470,14,Restaurant_14,6,NGO_6,Rice,43
+2026-04-06,200,25,Restaurant_25,5,NGO_5,Idli,77
+2026-04-07,431,25,Restaurant_25,5,NGO_5,Idli,48
+2026-04-08,180,12,Restaurant_12,7,NGO_7,Chapati,11
+2026-04-09,499,39,Restaurant_39,7,NGO_7,Rice,147
+2026-04-09,298,33,Restaurant_33,9,NGO_9,Idli,95
+2026-04-09,166,45,Restaurant_45,3,NGO_3,Chapati,18
+2026-04-09,370,36,Restaurant_36,5,NGO_5,Fried Rice,79
+2026-04-09,160,30,Restaurant_30,3,NGO_3,Chapati,134
+2026-04-10,309,31,Restaurant_31,4,NGO_4,Sambar Rice,1
+2026-04-10,84,4,Restaurant_4,9,NGO_9,Rice,29
+2026-04-12,426,20,Restaurant_20,10,NGO_10,Biryani,125
+2026-04-12,100,44,Restaurant_44,7,NGO_7,Chapati,70
+2026-04-12,402,12,Restaurant_12,7,NGO_7,Fried Rice,172
+2026-04-12,485,14,Restaurant_14,6,NGO_6,Idli,144
+2026-04-12,257,26,Restaurant_26,6,NGO_6,Biryani,132
+2026-04-13,373,13,Restaurant_13,3,NGO_3,Rice,54
+2026-04-14,368,47,Restaurant_47,2,NGO_2,Sambar Rice,26
+2026-04-14,88,22,Restaurant_22,1,NGO_1,Dosa,28
+2026-04-14,477,26,Restaurant_26,6,NGO_6,Fried Rice,27
+2026-04-15,429,31,Restaurant_31,4,NGO_4,Dosa,20
+2026-04-15,113,13,Restaurant_13,3,NGO_3,Fried Rice,36
+2026-04-16,472,1,Restaurant_1,2,NGO_2,Rice,25
+2026-04-16,51,48,Restaurant_48,3,NGO_3,Chapati,96
+2026-04-16,227,29,Restaurant_29,2,NGO_2,Sambar Rice,141
+2026-04-17,254,26,Restaurant_26,6,NGO_6,Biryani,48
+2026-04-17,72,50,Restaurant_50,7,NGO_7,Chapati,19
+2026-04-17,297,23,Restaurant_23,5,NGO_5,Rice,79
+2026-04-17,206,48,Restaurant_48,3,NGO_3,Idli,177
+2026-04-18,383,2,Restaurant_2,5,NGO_5,Dosa,62
+2026-04-19,233,23,Restaurant_23,5,NGO_5,Rice,79
+2026-04-19,320,34,Restaurant_34,6,NGO_6,Idli,88
+2026-04-20,409,41,Restaurant_41,4,NGO_4,Sambar Rice,52
+2026-04-20,323,29,Restaurant_29,2,NGO_2,Dosa,1
+2026-04-21,367,35,Restaurant_35,1,NGO_1,Dosa,26
+2026-04-21,16,7,Restaurant_7,9,NGO_9,Sambar Rice,12
+2026-04-21,491,23,Restaurant_23,5,NGO_5,Dosa,75
+2026-04-22,318,8,Restaurant_8,9,NGO_9,Curd Rice,137
+2026-04-23,440,48,Restaurant_48,3,NGO_3,Chapati,16
+2026-04-23,142,33,Restaurant_33,9,NGO_9,Idli,42
+2026-04-24,393,46,Restaurant_46,2,NGO_2,Biryani,28
+2026-04-24,183,35,Restaurant_35,1,NGO_1,Sambar Rice,61
+2026-04-24,422,21,Restaurant_21,4,NGO_4,Idli,115
+2026-04-25,439,7,Restaurant_7,9,NGO_9,Rice,137
+2026-04-26,490,2,Restaurant_2,5,NGO_5,Fried Rice,79
+2026-04-26,270,38,Restaurant_38,4,NGO_4,Chapati,161
+2026-04-26,335,8,Restaurant_8,9,NGO_9,Dosa,55
+2026-04-27,356,44,Restaurant_44,7,NGO_7,Idli,57
+2026-04-27,225,39,Restaurant_39,7,NGO_7,Curd Rice,90
+2026-04-27,170,29,Restaurant_29,2,NGO_2,Rice,22
+2026-04-27,241,14,Restaurant_14,6,NGO_6,Sambar Rice,73
+2026-04-27,24,1,Restaurant_1,2,NGO_2,Biryani,62
+2026-04-27,75,36,Restaurant_36,5,NGO_5,Dosa,78
+2026-04-27,424,29,Restaurant_29,2,NGO_2,Dosa,214
+2026-04-27,210,18,Restaurant_18,9,NGO_9,Idli,63
+2026-04-28,53,31,Restaurant_31,4,NGO_4,Sambar Rice,61
+2026-04-29,267,33,Restaurant_33,9,NGO_9,Fried Rice,29
+2026-04-29,291,44,Restaurant_44,7,NGO_7,Biryani,47
+2026-04-29,181,38,Restaurant_38,4,NGO_4,Biryani,37
+2026-04-29,263,50,Restaurant_50,7,NGO_7,Fried Rice,64
+2026-04-30,414,4,Restaurant_4,9,NGO_9,Biryani,137
+2026-04-30,182,17,Restaurant_17,1,NGO_1,Biryani,185
+2026-05-01,290,16,Restaurant_16,6,NGO_6,Chapati,6
+2026-05-01,147,32,Restaurant_32,7,NGO_7,Sambar Rice,232
+2026-05-01,397,7,Restaurant_7,9,NGO_9,Idli,51
+2026-05-02,374,3,Restaurant_3,3,NGO_3,Fried Rice,23
+2026-05-02,15,37,Restaurant_37,10,NGO_10,Curd Rice,89
+2026-05-02,78,29,Restaurant_29,2,NGO_2,Fried Rice,178
+2026-05-02,167,3,Restaurant_3,3,NGO_3,Curd Rice,16
+2026-05-03,27,4,Restaurant_4,9,NGO_9,Dosa,5
+2026-05-04,471,41,Restaurant_41,4,NGO_4,Fried Rice,43
+2026-05-04,159,46,Restaurant_46,2,NGO_2,Fried Rice,46
+2026-05-04,185,20,Restaurant_20,10,NGO_10,Idli,31
+2026-05-05,244,29,Restaurant_29,2,NGO_2,Fried Rice,91
+2026-05-05,174,41,Restaurant_41,4,NGO_4,Rice,19
+2026-05-06,222,28,Restaurant_28,5,NGO_5,Fried Rice,79
+2026-05-06,423,14,Restaurant_14,6,NGO_6,Idli,64
+2026-05-08,319,25,Restaurant_25,5,NGO_5,Fried Rice,79
+2026-05-09,384,45,Restaurant_45,3,NGO_3,Fried Rice,30
+2026-05-09,251,35,Restaurant_35,1,NGO_1,Sambar Rice,152
+2026-05-10,269,6,Restaurant_6,2,NGO_2,Curd Rice,35
+2026-05-10,62,8,Restaurant_8,9,NGO_9,Biryani,137
+2026-05-11,338,12,Restaurant_12,7,NGO_7,Chapati,141
+2026-05-11,68,29,Restaurant_29,2,NGO_2,Fried Rice,89
+2026-05-11,259,41,Restaurant_41,4,NGO_4,Chapati,26
+2026-05-12,69,43,Restaurant_43,10,NGO_10,Sambar Rice,33
+2026-05-12,359,26,Restaurant_26,6,NGO_6,Idli,16
+2026-05-12,219,29,Restaurant_29,2,NGO_2,Idli,137
+2026-05-12,151,8,Restaurant_8,9,NGO_9,Rice,72
+2026-05-13,294,36,Restaurant_36,5,NGO_5,Idli,79
+2026-05-13,346,4,Restaurant_4,9,NGO_9,Dosa,137
+2026-05-15,121,18,Restaurant_18,9,NGO_9,Biryani,65
+2026-05-15,381,38,Restaurant_38,4,NGO_4,Curd Rice,109
+2026-05-15,475,7,Restaurant_7,9,NGO_9,Dosa,72
+2026-05-15,342,46,Restaurant_46,2,NGO_2,Curd Rice,92
+2026-05-16,433,12,Restaurant_12,7,NGO_7,Dosa,67
+2026-05-17,6,47,Restaurant_47,2,NGO_2,Dosa,137
+2026-05-17,435,47,Restaurant_47,2,NGO_2,Curd Rice,61
+2026-05-18,473,34,Restaurant_34,6,NGO_6,Biryani,144
+2026-05-18,418,45,Restaurant_45,3,NGO_3,Chapati,50
+2026-05-18,198,26,Restaurant_26,6,NGO_6,Idli,17
+2026-05-18,35,37,Restaurant_37,10,NGO_10,Chapati,51
+2026-05-19,21,7,Restaurant_7,9,NGO_9,Rice,1
+2026-05-19,428,23,Restaurant_23,5,NGO_5,Rice,79
+2026-05-19,81,18,Restaurant_18,9,NGO_9,Idli,75
+2026-05-19,8,39,Restaurant_39,7,NGO_7,Chapati,84
+2026-05-19,3,24,Restaurant_24,4,NGO_4,Rice,184
+2026-05-19,14,43,Restaurant_43,10,NGO_10,Dosa,100
+2026-05-20,321,39,Restaurant_39,7,NGO_7,Biryani,194
+2026-05-20,308,24,Restaurant_24,4,NGO_4,Rice,14
+2026-05-20,391,8,Restaurant_8,9,NGO_9,Curd Rice,3
+2026-05-20,37,19,Restaurant_19,2,NGO_2,Biryani,14
+2026-05-21,302,14,Restaurant_14,6,NGO_6,Curd Rice,205
+2026-05-21,117,34,Restaurant_34,6,NGO_6,Sambar Rice,64
+2026-05-21,398,50,Restaurant_50,7,NGO_7,Dosa,65
+2026-05-22,156,20,Restaurant_20,10,NGO_10,Curd Rice,125
+2026-05-22,498,2,Restaurant_2,5,NGO_5,Idli,30
+2026-05-23,197,47,Restaurant_47,2,NGO_2,Sambar Rice,101
+2026-05-23,497,12,Restaurant_12,7,NGO_7,Curd Rice,26
+2026-05-23,449,36,Restaurant_36,5,NGO_5,Dosa,29
+2026-05-23,112,45,Restaurant_45,3,NGO_3,Rice,114
+2026-05-23,444,20,Restaurant_20,10,NGO_10,Dosa,93
+2026-05-24,390,21,Restaurant_21,4,NGO_4,Biryani,63
+2026-05-24,369,26,Restaurant_26,6,NGO_6,Chapati,7
+2026-05-24,500,27,Restaurant_27,6,NGO_6,Chapati,108
+2026-05-24,385,46,Restaurant_46,2,NGO_2,Sambar Rice,39
+2026-05-25,420,46,Restaurant_46,2,NGO_2,Idli,113
+2026-05-25,212,22,Restaurant_22,1,NGO_1,Chapati,76
+2026-05-25,239,1,Restaurant_1,2,NGO_2,Curd Rice,58
+2026-05-25,179,16,Restaurant_16,6,NGO_6,Dosa,60
+2026-05-25,102,44,Restaurant_44,7,NGO_7,Rice,153
+2026-05-25,377,33,Restaurant_33,9,NGO_9,Biryani,41
+2026-05-26,5,16,Restaurant_16,6,NGO_6,Idli,29
+2026-05-26,109,16,Restaurant_16,6,NGO_6,Curd Rice,104
+2026-05-26,29,16,Restaurant_16,6,NGO_6,Chapati,103
+2026-05-27,382,44,Restaurant_44,7,NGO_7,Idli,88
+2026-05-28,59,33,Restaurant_33,9,NGO_9,Chapati,35
+2026-05-28,186,25,Restaurant_25,5,NGO_5,Biryani,79
+2026-05-28,144,6,Restaurant_6,2,NGO_2,Rice,2
+2026-05-29,380,31,Restaurant_31,4,NGO_4,Chapati,14
+2026-05-29,163,47,Restaurant_47,2,NGO_2,Fried Rice,31
+2026-05-29,462,17,Restaurant_17,1,NGO_1,Curd Rice,22
+2026-05-29,26,14,Restaurant_14,6,NGO_6,Rice,248
+2026-05-30,46,3,Restaurant_3,3,NGO_3,Dosa,149
+2026-05-30,224,18,Restaurant_18,9,NGO_9,Sambar Rice,27
+2026-05-31,453,13,Restaurant_13,3,NGO_3,Chapati,41
+2026-06-01,169,3,Restaurant_3,3,NGO_3,Sambar Rice,30
+2026-06-01,107,28,Restaurant_28,5,NGO_5,Biryani,54
+2026-06-01,376,26,Restaurant_26,6,NGO_6,Sambar Rice,111
+2026-06-02,211,14,Restaurant_14,6,NGO_6,Rice,31
+2026-06-02,214,22,Restaurant_22,1,NGO_1,Rice,185
+2026-06-02,366,4,Restaurant_4,9,NGO_9,Fried Rice,39
+2026-06-02,76,43,Restaurant_43,10,NGO_10,Sambar Rice,22
+2026-06-04,452,25,Restaurant_25,5,NGO_5,Rice,48
+2026-06-04,86,27,Restaurant_27,6,NGO_6,Chapati,28
+2026-06-04,329,25,Restaurant_25,5,NGO_5,Dosa,31
+2026-06-05,237,36,Restaurant_36,5,NGO_5,Biryani,79
+2026-06-05,189,50,Restaurant_50,7,NGO_7,Sambar Rice,176
+2026-06-05,130,8,Restaurant_8,9,NGO_9,Chapati,66
+2026-06-06,132,37,Restaurant_37,10,NGO_10,Idli,125
+2026-06-07,306,19,Restaurant_19,2,NGO_2,Sambar Rice,139
+2026-06-07,65,48,Restaurant_48,3,NGO_3,Biryani,172
+2026-06-07,106,47,Restaurant_47,2,NGO_2,Fried Rice,94
+2026-06-08,49,50,Restaurant_50,7,NGO_7,Dosa,69
+2026-06-08,286,22,Restaurant_22,1,NGO_1,Dosa,58
+2026-06-09,96,13,Restaurant_13,3,NGO_3,Dosa,239
+2026-06-09,264,37,Restaurant_37,10,NGO_10,Sambar Rice,32
+2026-06-10,153,24,Restaurant_24,4,NGO_4,Fried Rice,62
+2026-06-10,137,44,Restaurant_44,7,NGO_7,Chapati,56
+2026-06-10,349,36,Restaurant_36,5,NGO_5,Biryani,79
+2026-06-11,305,39,Restaurant_39,7,NGO_7,Chapati,163
+2026-06-11,313,30,Restaurant_30,3,NGO_3,Dosa,86
+2026-06-13,396,43,Restaurant_43,10,NGO_10,Chapati,125
+2026-06-14,350,35,Restaurant_35,1,NGO_1,Dosa,21
+2026-06-15,260,23,Restaurant_23,5,NGO_5,Dosa,7
+2026-06-15,138,8,Restaurant_8,9,NGO_9,Dosa,112
+2026-06-15,430,50,Restaurant_50,7,NGO_7,Curd Rice,8
+2026-06-15,481,6,Restaurant_6,2,NGO_2,Sambar Rice,46
+2026-06-16,168,43,Restaurant_43,10,NGO_10,Dosa,22
+2026-06-17,262,10,Restaurant_10,8,NGO_8,Idli,30
+2026-06-17,464,16,Restaurant_16,6,NGO_6,Sambar Rice,17
+2026-06-17,226,45,Restaurant_45,3,NGO_3,Chapati,5
+2026-06-18,351,38,Restaurant_38,4,NGO_4,Sambar Rice,48
+2026-06-19,133,41,Restaurant_41,4,NGO_4,Idli,51
+2026-06-19,322,7,Restaurant_7,9,NGO_9,Biryani,30
+2026-06-19,443,20,Restaurant_20,10,NGO_10,Chapati,125
+2026-06-20,48,14,Restaurant_14,6,NGO_6,Idli,141
+2026-06-20,307,37,Restaurant_37,10,NGO_10,Idli,89
+2026-06-21,232,36,Restaurant_36,5,NGO_5,Idli,79
+2026-06-21,281,22,Restaurant_22,1,NGO_1,Idli,185
+2026-06-22,17,27,Restaurant_27,6,NGO_6,Idli,136
+2026-06-22,474,33,Restaurant_33,9,NGO_9,Curd Rice,60
+2026-06-22,243,10,Restaurant_10,8,NGO_8,Idli,64
+2026-06-22,173,6,Restaurant_6,2,NGO_2,Curd Rice,164
+2026-06-22,378,2,Restaurant_2,5,NGO_5,Idli,79
+2026-06-22,199,24,Restaurant_24,4,NGO_4,Biryani,11
+2026-06-23,326,33,Restaurant_33,9,NGO_9,Dosa,44
+2026-06-23,327,10,Restaurant_10,8,NGO_8,Fried Rice,92
+2026-06-23,288,3,Restaurant_3,3,NGO_3,Chapati,42
+2026-06-23,246,8,Restaurant_8,9,NGO_9,Fried Rice,16
+2026-06-23,190,41,Restaurant_41,4,NGO_4,Dosa,46
+2026-06-24,371,18,Restaurant_18,9,NGO_9,Idli,82
+2026-06-26,184,20,Restaurant_20,10,NGO_10,Biryani,85
+2026-06-26,45,1,Restaurant_1,2,NGO_2,Dosa,54
+2026-06-26,379,38,Restaurant_38,4,NGO_4,Rice,7
+2026-06-27,82,10,Restaurant_10,8,NGO_8,Dosa,40
+2026-06-27,334,14,Restaurant_14,6,NGO_6,Fried Rice,113
+2026-06-27,172,17,Restaurant_17,1,NGO_1,Curd Rice,37
+2026-06-28,446,43,Restaurant_43,10,NGO_10,Curd Rice,46
+2026-06-28,63,27,Restaurant_27,6,NGO_6,Biryani,62
+2026-06-28,124,4,Restaurant_4,9,NGO_9,Dosa,97
+2026-06-29,136,19,Restaurant_19,2,NGO_2,Fried Rice,138
+2026-06-29,141,30,Restaurant_30,3,NGO_3,Curd Rice,129
+2026-06-30,415,26,Restaurant_26,6,NGO_6,Biryani,77
+2026-06-30,389,20,Restaurant_20,10,NGO_10,Chapati,125
+2026-06-30,44,48,Restaurant_48,3,NGO_3,Curd Rice,2

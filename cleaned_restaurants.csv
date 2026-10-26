@@ -1,0 +1,51 @@
+restaurant_id,restaurant_name,location,food_type,daily_capacity
+1,Restaurant_1,Anna Nagar,Veg,429
+2,Restaurant_2,Tambaram,Veg,164
+3,Restaurant_3,Velachery,Both,102
+4,Restaurant_4,OMR,Veg,352
+5,Restaurant_5,Porur,Veg,65
+6,Restaurant_6,Anna Nagar,Veg,169
+7,Restaurant_7,OMR,Both,63
+8,Restaurant_8,OMR,Veg,416
+9,Restaurant_9,OMR,Non-Veg,162
+10,Restaurant_10,Mylapore,Both,192
+11,Restaurant_11,T Nagar,Veg,407
+12,Restaurant_12,Porur,Non-Veg,192
+13,Restaurant_13,Velachery,Veg,440
+14,Restaurant_14,Guindy,Veg,97
+15,Restaurant_15,Porur,Veg,233
+16,Restaurant_16,Guindy,Both,185
+17,Restaurant_17,T Nagar,Both,285
+18,Restaurant_18,OMR,Veg,243
+19,Restaurant_19,Anna Nagar,Both,200
+20,Restaurant_20,Chromepet,Non-Veg,345
+21,Restaurant_21,Adyar,Both,85
+22,Restaurant_22,T Nagar,Both,166
+23,Restaurant_23,Tambaram,Veg,487
+24,Restaurant_24,Adyar,Veg,244
+25,Restaurant_25,Tambaram,Non-Veg,375
+26,Restaurant_26,Guindy,Veg,239
+27,Restaurant_27,Guindy,Veg,393
+28,Restaurant_28,Tambaram,Both,399
+29,Restaurant_29,Anna Nagar,Both,375
+30,Restaurant_30,Velachery,Both,423
+31,Restaurant_31,Adyar,Veg,286
+32,Restaurant_32,Porur,Non-Veg,377
+33,Restaurant_33,OMR,Veg,400
+34,Restaurant_34,Guindy,Veg,167
+35,Restaurant_35,T Nagar,Non-Veg,255
+36,Restaurant_36,Tambaram,Veg,158
+37,Restaurant_37,Chromepet,Both,211
+38,Restaurant_38,Adyar,Both,305
+39,Restaurant_39,Porur,Both,284
+40,Restaurant_40,Velachery,Non-Veg,121
+41,Restaurant_41,Adyar,Both,337
+42,Restaurant_42,OMR,Non-Veg,432
+43,Restaurant_43,Chromepet,Non-Veg,348
+44,Restaurant_44,Porur,Non-Veg,162
+45,Restaurant_45,Velachery,Both,302
+46,Restaurant_46,Anna Nagar,Veg,490
+47,Restaurant_47,Anna Nagar,Veg,371
+48,Restaurant_48,Velachery,Both,266
+49,Restaurant_49,Chromepet,Veg,247
+50,Restaurant_50,Porur,Both,289

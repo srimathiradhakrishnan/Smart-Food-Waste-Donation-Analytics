@@ -1,0 +1,11 @@
+ngo_id,ngo_name,location,daily_requirement,food_preference
+1,NGO_1,T Nagar,185,Non-Veg
+2,NGO_2,Anna Nagar,298,Both
+3,NGO_3,Velachery,270,Veg
+4,NGO_4,Adyar,224,Both
+5,NGO_5,Tambaram,79,Both
+6,NGO_6,Guindy,276,Both
+7,NGO_7,Porur,242,Non-Veg
+8,NGO_8,Mylapore,246,Both
+9,NGO_9,OMR,137,Veg
+10,NGO_10,Chromepet,125,Non-Veg
